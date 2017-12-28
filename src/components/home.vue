@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    
+    测试vetur不提示的问题
   </div>
 </template>
 
